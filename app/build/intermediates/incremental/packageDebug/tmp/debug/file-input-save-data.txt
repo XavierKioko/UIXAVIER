@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Jul 19 12:10:46 EAT 2021
+3.set=ASSET
+3.path=fonts/royal.ttf
+2.base=C\:\\Users\\XAVIER\\AndroidStudioProjects\\UIXAVIER\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=fonts/poppins.ttf
+5.base=C\:\\Users\\XAVIER\\AndroidStudioProjects\\UIXAVIER\\app\\build\\intermediates\\merged_assets\\debug\\out
+0.base=C\:\\Users\\XAVIER\\AndroidStudioProjects\\UIXAVIER\\app\\build\\intermediates\\merged_assets\\debug\\out
+3.base=C\:\\Users\\XAVIER\\AndroidStudioProjects\\UIXAVIER\\app\\build\\intermediates\\merged_assets\\debug\\out
+5.path=fonts/riman.ttf
+3.baseType=DIRECTORY
+1.path=fonts/sofiapro_regular.ttf
+4.set=DEX
+0.baseType=DIRECTORY
+0.set=ASSET
+5.baseType=DIRECTORY
+4.path=classes.dex
+count=6
+5.set=ASSET
+1.set=ASSET
+2.path=classes.dex
+2.baseType=DIRECTORY
+2.set=DEX
+1.baseType=DIRECTORY
+4.base=C\:\\Users\\XAVIER\\AndroidStudioProjects\\UIXAVIER\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+1.base=C\:\\Users\\XAVIER\\AndroidStudioProjects\\UIXAVIER\\app\\build\\intermediates\\merged_assets\\debug\\out
+4.baseType=DIRECTORY

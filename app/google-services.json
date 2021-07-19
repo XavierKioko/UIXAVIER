@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180949602695",
+    "project_id": "grab-n-snack",
+    "storage_bucket": "grab-n-snack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180949602695:android:34dba325b6686424a18322",
+        "android_client_info": {
+          "package_name": "apen.login.design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180949602695-de5v9ev1j8dq2to0gcifqau9s60kcic6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFqSfEszVBJjMk1pM-GEtKHftSQff89_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180949602695-de5v9ev1j8dq2to0gcifqau9s60kcic6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
